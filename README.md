@@ -1,7 +1,7 @@
 # BLENDED LEARNING
 # Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
-<H3>NAME: DAKSHATA G</H3>
-<H3>REGISTER NO.: 212223240021</H3>
+<H3>NAME: DHANALAKSHMI A</H3>
+<H3>REGISTER NO.: 212223040033</H3>
 <H3>EX. NO.10</H3>
 <H3>DATE:</H3>
 
